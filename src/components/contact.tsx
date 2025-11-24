@@ -68,7 +68,7 @@ export default function Contact() {
 
   return (
     <>
-      <Container component="main" maxWidth="sm">
+      <Container component="main" id="Contact" maxWidth="sm">
         <Box sx={{ py: 8, position: "relative" }}>
           <Typography variant="h5" sx={{ textAlign: "center", py: 2 }}>
             Let's Connect 📩

@@ -14,7 +14,7 @@ export default function Copyright() {
         width: "100vw",
         marginLeft: "calc(-50vw + 50%)",
         marginRight: "calc(-50vw + 50%)",
-        backgroundColor: "#393E46",
+        backgroundColor: "#8d9093ff",
       }}
     >
       <Box
@@ -30,8 +30,10 @@ export default function Copyright() {
       >
         <Typography
           variant="body2"
-          color="textSecondary"
-          sx={{ fontSize: { xs: "0.75rem", sm: "0.875rem" } }}
+          sx={{
+            fontSize: { xs: "0.75rem", sm: "0.875rem" },
+            color: "whitesmoke",
+          }}
         >
           Made with ❤️ in India. &copy; 2025 All rights reserved.
         </Typography>
