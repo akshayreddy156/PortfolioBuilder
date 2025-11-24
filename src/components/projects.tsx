@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 import { details } from "../utils/util";
 import GitHubIcon from "@mui/icons-material/GitHub";
-
+import LinkIcon from "@mui/icons-material/Link";
 export default function Projects() {
   return (
     <>
@@ -50,6 +50,15 @@ export default function Projects() {
                     >
                       <GitHubIcon sx={{ verticalAlign: "middle" }} />
                     </IconButton>
+                    {project.live && (
+                      <IconButton
+                        href={project.live}
+                        target="_blank"
+                        sx={{ marginLeft: 1 }}
+                      >
+                        <LinkIcon sx={{ verticalAlign: "middle" }} />
+                      </IconButton>
+                    )}
                   </Typography>
                   <Typography
                     variant="body1"

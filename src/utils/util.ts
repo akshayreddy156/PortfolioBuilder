@@ -20,8 +20,9 @@ export const details = {
       name: "Portfolio Builder",
       description:
         "This is a web application designed by using React. Using Portfolio Builder application you can create your own portfolio by just entering your details in the Util.ts",
-      gitLink: "https://github.com/akshayreddy156/Smart-Contact",
+      gitLink: "https://github.com/akshayreddy156/PortfolioBuilder",
       techUsed: ["React", "TypeScript", "MUI"],
+      live: "https://akshayreddy156.github.io/PortfolioBuilder/",
     },
     {
       name: "Smart Contact Book",
