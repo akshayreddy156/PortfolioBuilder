@@ -7,7 +7,7 @@ import About from "./components/about";
 import Projects from "./components/projects";
 import Experience from "./components/experience";
 import Education from "./components/education";
-import Certification from "./components/certification";
+// import Certification from "./components/certification";
 import Skills from "./components/Skills";
 import Contact from "./components/contact";
 import Footer from "./components/footer";
