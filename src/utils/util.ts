@@ -45,7 +45,7 @@ export const details = {
       role: "jr Software Engineer",
       duration: "September 2023 - Present",
       responsibilities:
-        "As a Junior Software Engineer, I gained hands-on experience across multiple projects using Java, Spring Boot, and modern web technologies. I focused on fixing security vulnerabilities, assisting with version migrations, and improving overall code quality. I actively contributed to full-stack development tasks and collaborated closely with team members to maintain efficient Git-based workflows.",
+        "Contributing to the modernization of enterprise applications by developing scalable backend services and intuitive web applications using Java, Spring Boot, React, and TypeScript. Focused on designing secure REST APIs, implementing business workflows, improving application performance, and delivering high-quality software through Agile development practices.",
     },
   ],
   Education: [
